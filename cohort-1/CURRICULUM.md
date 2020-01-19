@@ -4,6 +4,7 @@
 
 Cohort One Course Syllabus
 
+--- 
 Meetup 1: Course Information
 
 Meetup Information
@@ -46,6 +47,7 @@ Resources
   - [Shell Scripting Crash Course -- Beginner Level](https://www.youtube.com/watch?v=v-F3YLd6oMw)
   - [A Beginner&#39;s Introduction to BASH Shell Scripting](https://www.youtube.com/watch?v=_n5ZegzieSQ)
 
+---
 Meetup 2: Course Information
 
 Meetup Information
@@ -84,6 +86,7 @@ Resources
   - [7 Apt Commands Every Ubuntu Linux User Should Know](https://www.youtube.com/watch?v=ECWKViCaI_A)
   - [Linux Terminal 201: Apt vs Apt-Get - HakTip 151](https://www.youtube.com/watch?v=9jNcjdQxEV8)
 
+---
 Meetup 3: Course Information
 
 Meetup Information
@@ -124,7 +127,7 @@ Resources
   - [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
   - [Shell Scripting Crash Course -- Beginner Level](https://www.youtube.com/watch?v=v-F3YLd6oMw)
   - [A Beginner&#39;s Introduction to BASH Shell Scripting](https://www.youtube.com/watch?v=_n5ZegzieSQ)
-
+---
 Meetup 4: Course Information
 
 Meetup Information
@@ -163,7 +166,7 @@ Resources
   - [Learning the Linux File System](https://www.youtube.com/watch?v=HIXzJ3Rz9po&amp;t=1s)
   - [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
   - [The Linux File System...for humans](https://www.youtube.com/watch?v=UFIoRLqhFpo)
-
+---
 Meetup 5: Course Information
 
 Meetup Information
@@ -203,7 +206,7 @@ Resources
   - [Linux Sysadmin Basics -- Linux File Permissions](https://www.youtube.com/watch?v=8SkN7UofOww)
   - [Users, Groups and Permissions in Linux](https://www.youtube.com/watch?v=zRw0SKaXSfI)
   - [Managing Users, Groups &amp; Permissions in Linux](https://www.youtube.com/watch?v=Nm5iT-sAr3A)
-
+---
 Meetup 6: Course Information
 
 Meetup Information
@@ -243,7 +246,7 @@ Resources
   - [Linux Sysadmin Basics -- Linux File Permissions](https://www.youtube.com/watch?v=8SkN7UofOww)
   - [Users, Groups and Permissions in Linux](https://www.youtube.com/watch?v=zRw0SKaXSfI)
   - [Managing Users, Groups &amp; Permissions in Linux](https://www.youtube.com/watch?v=Nm5iT-sAr3A)
-
+---
 Meetup 7: Course Information
 
 Meetup Information
@@ -282,7 +285,7 @@ Resources
   - [Linux processes, init, fork/exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs)
   - [Linux Process Management](https://www.youtube.com/playlist?list=PL6IQ3nFZzWfp7tS-zcSw8mt04ROk0qLFN)
   - [Process Management in LINUX | Monitoring and Controlling Processes | Explained with Examples](https://www.youtube.com/watch?v=eqv4xk6ihRE)
-
+---
 Meetup 8: Course Information
 
 Meetup Information
@@ -321,7 +324,7 @@ Resources
   - [Linux processes, init, fork/exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs)
   - [Linux Process Management](https://www.youtube.com/playlist?list=PL6IQ3nFZzWfp7tS-zcSw8mt04ROk0qLFN)
   - [Process Management in LINUX | Monitoring and Controlling Processes | Explained with Examples](https://www.youtube.com/watch?v=eqv4xk6ihRE)
-
+---
 Meetup 9: Course Information
 
 Meetup Information
