@@ -9,15 +9,16 @@ Meetup 1: Course Information
 
 Meetup Information
 
-- **Date:** To be announced
-- **Time:** To be announced
-- **Location:** To be announced
+- **Date:** February 1st, 2019
+- **Time:** 10am
+- **Location:** NGHUB
 
 Instructor Information
 
-- **Instructor:** To be announced
-- **Twitter Handle:** To be announced
-- **E-mail:** To be announced
+- **Instructor:** James John
+- **Twitter Handle:** @donjajo
+- **Recap:** https://medium.com/linux-lagos/starting-off-a-new-linux-paradigm-890019ab1ef6?source=friends_link&sk=c4615a5f19995658dbf1ccfed55072af
+
 
 Course Description
 
@@ -52,15 +53,14 @@ Meetup 2: Course Information
 
 Meetup Information
 
-- **Date:** To be announced
-- **Time:** To be announced
-- **Location:** To be announced
+- **Date:** February 15th, 2019
+- **Time:** 10am
+- **Location:** Semicolon Africa
 
 Instructor Information
 
-- **Instructor:** To be announced
-- **Twitter Handle:** To be announced
-- **E-mail:** To be announced
+- **Instructor:** Diret Domnan and Bakare Emmanuel
+- **Twitter Handle:** [@_deven96](https://twitter.com/_deven96) and [@TiemmaBakare](https://twitter.com/TiemmaBakare)
 
 Course Description
 
