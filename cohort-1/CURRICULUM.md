@@ -64,7 +64,7 @@ Instructor Information
 
 Course Description
 
-- Introduction to APT
+- Introduction to Linux Package Management
 
 Prerequisites
 
@@ -72,7 +72,7 @@ Prerequisites
 
 Course Objectives
 
-- To get members comfortable with installing, updating and removing packages.
+- To get members comfortable with installing, upgrading, configuring and removing packages.
 - To get members to become comfortable with troubleshooting package management errors.
 
 Resources
@@ -81,10 +81,12 @@ Resources
   - Chapter 13: UNIX® AND LINUX® SYSTEM ADMINISTRATION HANDBOOK
   - [Using apt Commands in Linux [Complete Guide]](https://itsfoss.com/apt-command-guide/)
   - [Apt Package Management Tool](https://linuxhint.com/primer_apt_package_management_tool/)
+  - [Using Yum and RPM.](https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-102-5/)
 - **●●**** Videos**:
   - [The APT Package Manager in Debian and Ubuntu](https://www.youtube.com/watch?v=X20QCZlOhzM)
   - [7 Apt Commands Every Ubuntu Linux User Should Know](https://www.youtube.com/watch?v=ECWKViCaI_A)
   - [Linux Terminal 201: Apt vs Apt-Get - HakTip 151](https://www.youtube.com/watch?v=9jNcjdQxEV8)
+  - [Using YUM Package Manager.](https://www.youtube.com/watch?v=dA_P2Qy_FyA)
 
 ---
 Meetup 3: Course Information
