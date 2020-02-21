@@ -337,9 +337,9 @@ Meetup Information
 
 Instructor Information
 
-- **Instructor:** To be announced
-- **Twitter Handle:** To be announced
-- **E-mail:** To be announced
+- **Instructor:** Samuel Anyaele
+- **Twitter Handle:** @_TheMobileProf
+- **E-mail:** themobileprof.com@gmail.com
 
 Course Description
 
@@ -351,7 +351,8 @@ Prerequisites
 
 Course Objectives
 
-- To help members get comfortable with using text editors in GUI-less environments
+- To help members get comfortable with using code editors in GUI-less environments
+- Learn how to personalize your Neovim setup with vim-plug
 
 Resources
 
