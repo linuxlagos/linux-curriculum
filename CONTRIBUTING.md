@@ -3,29 +3,17 @@
 
 The Linux Lagos meetup is open to contributions from everyone and anyone. The goal is to make the community a better place, so some contributions may be accepted while some rejected. Regardless of the outcome, it is the goodwill towards improving the Linux Lagos meetup that matters.
 
-## Taking a Session
+## Curriculum Format
 
-## Suggesting a New Topic
-If you intend to suggest a new topic for a particular cohort, you'll need to provide the following information in the Pull Request after editing the respective cohort's SUGGESTION.md file.
+You can contribute either by mentoring a class, suggesting a new topic, replacing, improving an existing topic. 
 
- - Experience level of target audience
- - Interest in teaching the topic
+Kindly ensure that the appropriate parts of the `curriculum.md`  file for the cohort of interest are modified.
 
-## Replacing an Existing Topic
+Curriculum files:
 
-If you intend to improve an existing topic for a particular cohort, you'll need to provide the following information in the Pull Request after editing the respective cohort's CURRICULUM.md file:
+ - [Cohort One](https://github.com/linuxlagos/linux-curriculum/blob/master/cohort-1/CURRICULUM.md)
 
- - Reasons for dismissing the previous topic
- - Relation of the new topic to the previous one
-
-## Improving an Existing Topic
-If you intend to improve an existing topic for a particular cohort, you'll need to provide the following information in the Pull Request after editing the respective cohort's CURRICULUM.md file:
-
- - Reasons for suggested changes
-
-## Format
-
-Be it suggesting a new topic, replacing or improving an existing topic. Kindly ensure that the change to the file follows the format:
+Every class in the curriculum takes the format specified below:
 
 > Meetup X: Course Information
 > 
@@ -60,6 +48,25 @@ Be it suggesting a new topic, replacing or improving an existing topic. Kindly e
 > 
 > - **●●**** Videos**:
 > 	 - Lorem ipsum dolor sit amet
+
+## Taking a Session
+
+If you intend to take a session, kindly update the **Instructor Information** section of the curriculum, that includes **Instructor**, **Twitter Handle** and **Email**.
+
+## Suggesting a New Topic
+
+If you intend to suggest a new topic, kindly copy paste the format to the bottom of the curriculum. At minimum, fill the **Course Description**, **Prerequisites** and **Course Objectives** sections. Everyone will appreciate it if the **Resources** section can be filled too.
+
+## Replacing an Existing Topic
+
+If you intend to replace an existing topic, kindly update the **Course Description**, **Prerequisites** and **Course Objectives** sections with the new topic details. 
+
+Kindly update the **Resources** section with `Lorem ipsum dolor sit amet` placeholders as seen in the format. However, everyone will appreciate it if you can provide actual resources for the updated topic.
+
+
+## Improving an Existing Topic
+
+If you intend to improve an existing topic, kindly update one or more of the **Course Description**, **Prerequisites**, **Course Objectives** and **Resources** sections with the desired improvements. 
 
 ## Code of Conduct
 
